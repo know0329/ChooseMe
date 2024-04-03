@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ChooseMe</string>
+    <string name="login">login</string>
+    <string name="home">home</string>
 </resources>
