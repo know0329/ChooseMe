@@ -1,4 +1,4 @@
-package com.example.chooseme.Model
+package com.example.chooseme.model
 
 import java.util.Date
 import java.util.UUID

@@ -1,4 +1,4 @@
-package com.example.chooseme.Model
+package com.example.chooseme.model
 
 data class Candidate(
     val candidateId : Long,
